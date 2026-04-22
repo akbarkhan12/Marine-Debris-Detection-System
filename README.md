@@ -241,12 +241,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions, suggestions, or collaborations:
-
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [your-github-username]
-- **LinkedIn**: [your-linkedin-profile]
+- **Project Lead**: [Mohammed Abdul Akbar Khan Noman]
+- **Email**: [akbarkhan.noman@gmail.com]
+- **GitHub**: [akbarkhan12]
+- **LinkedIn**: [Mohammed Abdul Akbar Khan Noman]
 
 ## 🔄 Future Enhancements
 
