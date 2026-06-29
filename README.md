@@ -26,8 +26,8 @@ Marine pollution poses a significant threat to ocean ecosystems worldwide. AquaV
 | # | Name | Roll Number |
 |---|------|-------------|
 | 1 | Abdul Waleed | 160922748067 |
-| 2 | MD Sahil Khan | 160922748093 |
-| 3 | MD Fardeen Ismail Khan | 160922748085 |
+| 2 | MD Fardeen Ismail Khan | 160922748085 |
+| 3 | MD Sahil Khan | 160922748093 |
 | 4 | Mohammed Abdul Akbar Khan Noman | 160922748098 |
 
 **Project Guide:** Mrs. Raheela Tabassum, Assistant Professor
